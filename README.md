@@ -71,27 +71,27 @@ cada ocorrência por região, continente e nível de severidade.
 ### Tela Inicial (Home)
 Nome da solução, descrição, indicadores e cards de navegação.
 
-<img width="332" height="757" alt="Tela Home" src="https://github.com/user-attachments/assets/55a5a3ee-ec7e-45e3-97cf-68db36dc3aa8" />
+<img width="435" height="828" alt="image" src="https://github.com/user-attachments/assets/008b5194-976a-4aab-aa9f-e1e6621ad2b4" />
 
 ### Eventos Monitorados
 Lista de eventos climáticos com filtros interativos por continente e severidade.
 
-<img width="336" height="755" alt="Tela de Eventos" src="https://github.com/user-attachments/assets/23343f69-c066-42ca-947f-9646360f448b" />
+<img width="460" height="825" alt="image" src="https://github.com/user-attachments/assets/cb4bee2f-6234-4275-bfe5-7b0b054a0747" />
 
 ### Detalhe do Evento
 Informações completas do evento selecionado, com cor dinâmica por severidade.
 
-<img width="343" height="757" alt="Detalhe do Evento" src="https://github.com/user-attachments/assets/1eef4de3-ec26-4960-aba8-b2f2a06527f9" />
+<img width="475" height="828" alt="image" src="https://github.com/user-attachments/assets/734cd37e-c642-47c0-94a8-9cc8342557a2" />
 
 ### Satélites Ativos
 Frota orbital de monitoramento ambiental.
 
-<img width="345" height="761" alt="Tela de Satélites" src="https://github.com/user-attachments/assets/c7ab3ed2-8789-4c7c-9ce5-0f480e3ecbf6" />
+<img width="451" height="827" alt="image" src="https://github.com/user-attachments/assets/f2b29b90-20d6-466d-8be9-5cd236e0b638" />
 
 ### Regiões de Risco
 Áreas monitoradas por vulnerabilidade climática.
 
-<img width="361" height="765" alt="Tela de Regiões" src="https://github.com/user-attachments/assets/4ea38300-764a-4f24-a38a-99166ba82d82" />
+<img width="466" height="836" alt="image" src="https://github.com/user-attachments/assets/a94c677b-b5ff-453b-97b4-072659e61a48" />
 
 ---
 
